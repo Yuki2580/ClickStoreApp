@@ -1,6 +1,6 @@
 # ClickStoreApp
 
-This project is to build the NFT market place to sell images.
+This project is to build the NFT market place to sell and buy images.
 
 ```shell
 npx hardhat help
