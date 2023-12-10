@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 /** @type import('hardhat/config').HardhatUserConfig */
-// const GOERLI_PRIVATE_KEY = "net rally inmate gas finish boy balcony tree ceiling lucky cattle bird";
+// const GOERLI_PRIVATE_KEY = "GOERLI private key here";
 
 module.exports = {
   solidity: "0.8.19",
